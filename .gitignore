@@ -1,0 +1,11 @@
+# Private working docs (naming history, internal notes, old builds)
+_internal/
+# OS / editor / tooling
+.DS_Store
+Thumbs.db
+.netlify/
+.vscode/
+.claude/
+*.log
+.env
+.env.*
