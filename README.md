@@ -1,7 +1,7 @@
 # Overspill
 
 **A chain-reaction strategy game played on a generated 3D network.**
-Play it: **https://chaingame-tibr.netlify.app**
+Play it: **https://overspill-game.netlify.app**
 
 Tap a node to charge it. Each tap lights one of its connections; when every
 connection is lit, the next tap detonates it, pushes a charge into each
